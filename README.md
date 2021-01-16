@@ -1,4 +1,6 @@
-### I am currently a graduate student at NYU Courant
+### I am interested in solving problems in quantitative finance/general data science
+
+### Proud alum of Berkeley Math & NYU Courant
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
