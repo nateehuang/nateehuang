@@ -1,4 +1,4 @@
-### I am interested in solving problems in quantitative finance/general data science
+### I am interested in solving problems in quantitative finance/data science
 
 ### Proud alum of Berkeley Math & NYU Courant
 
